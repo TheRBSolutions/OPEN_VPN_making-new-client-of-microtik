@@ -254,7 +254,7 @@ nano ~/test-vpn.ovpn
 client
 dev tun
 proto tcp
-remote hgb09mjagx2.sn.mynetname.net 80
+remote hgb09mjagx2.sn.mynetname.net 1194
 resolv-retry infinite
 nobind
 persist-key
